@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/0498ae8e-9773-4c64-b287-5e58c1e565b4
+
 ## Semi-Automatic Lathe Control System (RSLogix 500 & Wonderware InTouch)
 
 ### System Overview
